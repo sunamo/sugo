@@ -2,7 +2,7 @@ package sugo
 
 import "fmt"
 
-func exc(e error) {
+func Exc(e error) {
 	if e != nil {
 		fmt.Println((e))
 	}
