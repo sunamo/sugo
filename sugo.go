@@ -23,6 +23,12 @@ func ToStr(a interface{}) string {
 	return fmt.Sprintf("%v", a)
 }
 
+// FirstChar convert to rune
+func FirstChar(a interface{}) string {
+	r := fmt.Sprintf("%v", a)[0]
+	return ToStr(r)
+}
+
 // PrintFactors return all factors of A1
 func PrintFactors(nr int64) ([]int64, error) {
 	fs := make([]int64, 1)
