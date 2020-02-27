@@ -6,6 +6,12 @@ import (
 	"strings"
 )
 
+// ra rune at
+func ra(s string, p int) string {
+	r := string([]rune(s))[p]
+	return fmt.Sprintf("%v", r)
+}
+
 //Join strings
 func Join(sep string, a ...interface{}) string {
 	fs := make([]string, len(a))
