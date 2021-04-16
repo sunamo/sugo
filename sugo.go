@@ -1,6 +1,6 @@
 package sugo
 
-import (
+import  (
 	"errors"
 	"fmt"
 	"strings"
