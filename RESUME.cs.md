@@ -1,5 +1,5 @@
 ---
-schema_version: 3
+schema_version: 4
 type: library
 file_count: 4
 delete_recommendation_percent: 30
@@ -20,3 +20,10 @@ Je to malá osobní utilitka bez testů.
 Staženo z GitHubu: **ne** — vlastní knihovna autora (`sunamo/sugo`)
 
 - Ověřeno: `gh api repos/sunamo/sugo` vrací `fork: false` bez rodiče; README "My shared library for Go"; historie 16 commitů jen od uživatele (Radek Jancik / Radek Jančík / VPS); v kódu žádné URL ani cizí copyright.
+
+## Doporučení ke smazání
+
+Doporučení ke smazání: **30 %** — vlastní sdílená knihovna, ale malá
+
+- `sunamo/sugo` je autorova vlastní knihovna (16 commitů), nejde o cizí kód.
+- Jen 4 soubory, proto nižší riziko při smazání, ale obsah je unikátní, takže nejde o vysoké číslo.
