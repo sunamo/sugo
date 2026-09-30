@@ -10,3 +10,7 @@ generated_date: 2026-09-29
 
 Sdílená Go knihovna uživatele s pomocnými funkcemi (viz README 'My shared library for Go').
 Určená k importu z dalších Go projektů, ne samostatná aplikace.
+
+## Původ zdrojáků
+
+Staženo z GitHubu: **ne** — podle remote a metadat repa nejde o zdrojáky stažené z GitHubu.
