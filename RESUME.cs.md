@@ -1,5 +1,5 @@
 ---
-schema_version: 4
+schema_version: 5
 type: library
 file_count: 4
 delete_recommendation_percent: 30
@@ -7,6 +7,9 @@ generated_date: 2026-09-30
 generated_time: 16:09:11
 github_origin: no
 github_source_url: 
+first_commit_date: 2019-04-19
+last_commit_date: 2026-09-27
+commit_count: 12
 ---
 
 ## Description
@@ -27,3 +30,11 @@ Doporučení ke smazání: **30 %** — vlastní sdílená knihovna, ale malá
 
 - `sunamo/sugo` je autorova vlastní knihovna (16 commitů), nejde o cizí kód.
 - Jen 4 soubory, proto nižší riziko při smazání, ale obsah je unikátní, takže nejde o vysoké číslo.
+
+## Historie commitů
+
+- První commit: 2019-04-19
+- Poslední commit: 2026-09-27
+- Celkem commitů: 12
+
+- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
