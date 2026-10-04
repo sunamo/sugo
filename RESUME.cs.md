@@ -1,17 +1,26 @@
 ---
-schema_version: 7
+schema_version: 11
 type: my-library
+category_override: Go_Projects
 file_count: 4
+file_extensions: md:2, go:1, noext:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 56
-move_to_legacy_percent: 30
-generated_date: 2026-10-01
-generated_time: 16:40:46
-github_source_url: 
-last_build_ok: n/a
-last_build_date: n/a
-last_tests_run_date: n/a
-covered_lines: 0
 total_lines: 121
+metrics_lm: 2026-10-01 16:40:46
+move_to_legacy_percent: 30
+description_updated: 2026-10-01
+links_updated: 2026-10-01
+github_source_url: not found
+origin_status: found
+origin_checked: 2026-10-01
+article_source_url: not run
+article_status: pending
+article_checked: not run
+last_build_ok: not run
+last_build_date: not run
+last_tests_run_date: not run
+covered_lines: 0
 ---
 
 ## Description
